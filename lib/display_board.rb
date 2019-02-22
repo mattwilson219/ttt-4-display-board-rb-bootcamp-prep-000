@@ -16,7 +16,7 @@ def display_board(board)
 end
 
 def display_board
-  board = [" "," "," "," "," "," "," "," "," "]
-  board = [" ", " ", " ", " ", "X", " ", " ", " ", " "]
-  board = [" ", " ", " ", " ", "X", " ", " ", " ", " "]
+  puts board = [" "," "," "," "," "," "," "," "," "]
+  puts board = [" ", " ", " ", " ", "X", " ", " ", " ", " "]
+  puts board = [" ", " ", " ", " ", "X", " ", " ", " ", " "]
 end
